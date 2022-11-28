@@ -1,0 +1,32 @@
+# Translation of Themes - Shop Store in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Shop Store package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-19 18:00:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Shop Store\n"
+
+#. Description of the plugin/theme
+msgid "Shop Store is a MultiPurpose, Responsive, SEO Friendly, Clean, Customizable and WooCommerce Compatible theme. it is best theme to sell products and display informations such as text, images, tables, menus, header image, widgets etc. Shop Store theme is fully compatible with Elementor page builder and also have page templates such as Full Width for Page Builder, Page with Left Sidebar, Page with Right Sidebar, Full Width template. Theme Features: Custom Logo, Custom Menu, Custom Widgets, Social Icons, WooCoomerce Icons, Header Image, Front Page Slider, Page Templates, Footer Widgets, Footer Copyright Section, Typography Options, Blog Options, WooCoomerce Options, Social Profile Options, Sidebar Menu Options, Sticky Menu Option, Back To Top Icon, Page Loading Icon and much more. Shop Store theme can be use for many type of websites such as Blog, eCommerce, Photography, Lifestyle, Travel, Hotel, Restaurant, Portfolio, Agency and Firm, Business Website, Gallery, Event, Startups, Architecture, Medical, Sport, Landing Page, One Page, Affiliate, Education, Yoga and similar websites."
+msgstr "Shop Store es un tema multipropósito, adaptable, preparado para SEO, limpio, personalizable y compatible con WooCommerce. Es el mejor tema para vender productos y mostrar información como texto, imágenes, tablas, menús, imágenes de cabecera, widgets, etc. El tema Shop Store es totalmente compatible con el constructor de páginas Elementor y también tiene plantillas de página como Ancho total para el creador de páginas, Página con barra lateral izquierda, Página con barra lateral derecha, Plantilla de ancho total. Características del tema: Logotipo personalizado, Menú personalizado, Widgets personalizados, Iconos sociales, Iconos de WooCoomerce, Imagen de cabecera, Deslizador de página frontal, Plantillas de página, Widgets de pie de página, Sección de derechos de autor de pie de página, Opciones de tipografía, Opciones de blog, Opciones de WooCoomerce, Opciones de perfil social, Opciones de menú de barra lateral, Opción de menú pegajoso, Icono de regreso a la parte superior, Icono de carga de la página y mucho más. El tema de la Tienda puede ser usado para muchos tipos de sitios web como Blog, eCommerce, Fotografía, Estilo de Vida, Viajes, Hoteles, Restaurantes, Portafolios, Agencias y Firmas, Sitios Web de Negocios, Galería, Eventos, Startups, Arquitectura, Médicos, Deportivos, Páginas de Aterrizaje, Una Página, Afiliados, Educación, Yoga y otros sitios similares."
+
+#. Theme Name of the plugin/theme
+msgid "Shop Store"
+msgstr "Shop Store"
+
+#: functions.php:23
+msgid "Woo Quick View"
+msgstr "Woo Quick View"
+
+#: functions.php:18
+msgid "WooCommerce PDF Invoices & Packing Slips"
+msgstr "WooCommerce PDF Invoices & Packing Slips"
+
+#. Author of the plugin/theme
+msgid "parkerarianna3"
+msgstr "parkerarianna3"

@@ -1,0 +1,4 @@
+2022-11-26T06:49:35+00:00 CRITICAL syntax error, unexpected ';', expecting ')' en C:\xampp\htdocs\wzstore\wp-content\themes\zerif-lite\functions.php en la línea 2083
+
+2022-11-26T07:05:57+00:00 CRITICAL Cannot redeclare wps_add_select_checkout_field() (previously declared in C:\xampp\htdocs\wzstore\wp-content\themes\zerif-lite\functions.php:2076) en C:\xampp\htdocs\wzstore\wp-content\themes\zerif-lite\functions.php en la línea 2103
+
